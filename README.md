@@ -4,6 +4,11 @@
 ### 小组介绍
 小组名称：光宗耀组<br>
 成员：王婷婷 杨千旭 李思洁 周海星
+### 网站说明
+1.网站公网IP访问地址：http://118.178.225.247:8080/web02/<br>
+2.网站保险购买、保单查询、会员开通等核心业务需注册登录才可使用，游客用户可浏览首页基本信息。<br>
+3.该系统需求文档：https://kdocs.cn/l/saJWi67FMHTQ<br>
+
 ### 系统基本业务流程
 ![]
 (https://https://github.com/YD-Insurance/YD_Insurance/tree/master/ReadImages/01.png)
